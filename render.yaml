@@ -11,7 +11,7 @@ services:
         value: production
 
       - key: BOT_PREFIX
-        value: .
+        value: 😎
 
       - key: BOT_NUMBER
         sync: false
