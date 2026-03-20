@@ -2,7 +2,7 @@ services:
   - type: web
     name: Eclipse-MD
     runtime: docker
-    repo: https://github.com/horlapookie/Eclipse-MD
+    repo: https://github.com/Terrjo/Eclipse-MD
     branch: main
     plan: free
     autoDeploy: true
