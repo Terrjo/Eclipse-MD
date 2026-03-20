@@ -27,7 +27,7 @@ When the bot starts successfully, you'll see this welcome message:
 
 ### Bot Configuration
 ```bash
-BOT_PREFIX=.                 # Command prefix
+BOT_PREFIX=😎                 # Command prefix
 BOT_NUMBER=234*****          # owner number 
 BOT_SESSION_DATA=<session>   # WhatsApp session ID
 ```
