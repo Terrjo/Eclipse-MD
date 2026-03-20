@@ -7,4 +7,4 @@ services:
       sleep: false
     env:
       NODE_ENV: production
-      BOT_PREFIX: "."
+      BOT_PREFIX: "😎"
